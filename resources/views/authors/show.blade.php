@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
-                <h2> Show Author BY jORDI</h2>
+                <h2> Show Adgfdg</h2>
             </div>
             <div class="pull-right">
                 <a class="btn btn-primary" href="{{ route('authors.index') }}"> Back</a>
