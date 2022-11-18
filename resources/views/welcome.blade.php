@@ -27,7 +27,7 @@
                 </div>
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-               <h1 style="color: white"> Laravel Author App </h1>
+               <h1 style="color: white"> Laravel Author App Jord ffefiiii</h1>
             </div>
         </div>
     </body>
